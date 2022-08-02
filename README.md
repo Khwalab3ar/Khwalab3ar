@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Khwalab3ar/Khwalab3ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,4 +8,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Gaming or any other projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khwa-oo/)
 - ⚡ Fun fact: I like to draw, eat, and travel.
--->
